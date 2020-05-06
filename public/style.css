@@ -1,0 +1,47 @@
+
+
+#left_side{
+    background-image: url("./images/left_side2.jpg") ;
+}
+
+#left_above{
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-image: url('./images/texture3.jpg');
+}
+
+.left{
+    position: relative;
+}
+#block{
+    margin-top: 100px;
+    margin-bottom:100px;
+    min-height:430px;
+    width: 60%;
+    height:auto;
+    background-image: url("./images/left_side2.jpg");
+}
+@media (max-width:750px)
+{
+     #block{
+        width: 90%;
+    }
+}
+#navbar{
+    height: 70px;
+    background-image: url("./images/texture3.jpg");
+    /*background-color: #6699bb;*/
+}
+
+
+.text_span{
+    background-color:black;
+}
+
+.description{
+    color:darkorange;
+}
+
