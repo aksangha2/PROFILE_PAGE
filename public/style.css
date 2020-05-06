@@ -1,7 +1,7 @@
 
 
 #left_side{
-    background-image: url("./images/left_side2.jpg") ;
+    background-image: url("./images/left_side4.jpg") ;
 }
 
 #left_above{
@@ -22,7 +22,7 @@
     min-height:430px;
     width: 60%;
     height:auto;
-    background-image: url("./images/left_side2.jpg");
+    background-image: url("./images/left_side4.jpg");
 }
 @media (max-width:750px)
 {
