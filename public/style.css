@@ -1,4 +1,6 @@
-
+body{
+    max-width: 100%;
+}
 
 #left_side{
     background-image: url("./images/left_side3.jpg") ;
